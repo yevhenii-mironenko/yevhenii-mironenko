@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Yevhenii Myronenko</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yevhenii-mironenko&label=Profile%20views&color=0e75b6&style=flat" alt="yevhenii-mironenko" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yevhenii-mironenko&theme=" alt="yevhenii-mironenko" /></a> </p>
 
 - 🔭 I’m currently working on [Work.ua](https://www.work.ua/)
@@ -36,13 +34,4 @@
 </p>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yevhenii-mironenko&theme=" alt="yevhenii-mironenko" /></p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/yevhenii-mironenko">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yevhenii-mironenko&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yevhenii-mironenko&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yevhenii-mironenko&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yevhenii-mironenko&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yevhenii-mironenko&theme=2077" height="180em" />
 </div>
